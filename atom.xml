@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://austen-yhl.github.io</id>
     <title>Austen</title>
-    <updated>2020-03-13T00:16:51.121Z</updated>
+    <updated>2020-03-13T00:32:11.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://austen-yhl.github.io"/>
     <link rel="self" href="https://austen-yhl.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://austen-yhl.github.io/images/avatar.png</logo>
     <icon>https://austen-yhl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Austen</rights>
+    <entry>
+        <title type="html"><![CDATA[中考 加油！]]></title>
+        <id>https://austen-yhl.github.io/post/U4nJ9FLHR/</id>
+        <link href="https://austen-yhl.github.io/post/U4nJ9FLHR/">
+        </link>
+        <updated>2019-06-02T00:26:20.000Z</updated>
+        <content type="html"><![CDATA[<p>在今年二月未，回到学校，看见离中考还有120天的倒计时，心里在想：还有120天呢，4个多月，不急不急。但是，一眨眼间就已经过去了三个半月了，在这三个半月中，我终于认识到我当初的想法是极度危险的，在这三个半月中，沉浸（发呆）在题海中，每天都有做不完的试卷，知识点巩固了一次又一次。但是，这个过程对于在追梦的我们来说是痛苦并快乐着的！</p>
+<p>6月20日，我们就要踏上战场了，还剩下最后10多天，努力！奋斗吧！</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.blogbyme.vload.cn/wp-content/uploads/2019/06/2019060807231083-1.jpeg" alt="01.jpeg" loading="lazy"></figure>
+<p>乾坤未定，你我皆是黑马。<br>
+以梦为马，不负昭华。</p>
+<p>中考，加油！<br>
+<img src="https://cdn.blogbyme.vload.cn/wp-content/uploads/2019/06/2019061213111111-1.jpeg" alt="02.jpeg" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://austen-yhl.github.io/post/hello-gridea/</id>
